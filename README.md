@@ -1,4 +1,5 @@
-# TinDog
-Tinder for dog. Responsive website for PC, tablets and mobile phones. HTML, CSS, Bootstrap 4.
+# tinDog-website
+using Html, Css and Bootstrap4.
+Tindog website for dogs. Responsive website for PC, tablets and mobile phones.
 
-this is a small change
+this is a small change.
